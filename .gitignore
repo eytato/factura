@@ -11,6 +11,7 @@
 /storage
 /bootstrap/compiled.php
 /bootstrap/environment.php
+/bootstrap/cache
 /vendor
 /node_modules
 /.DS_Store

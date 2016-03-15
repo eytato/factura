@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fceb9a043eac244cb01d8e8378e6d66a",
-    "content-hash": "f717dc8e67caa65002f0f0689d4a5478",
+    "hash": "258e549838b96f4dcdd852d5ea3bfe96",
+    "content-hash": "67d0c783f5ac105cb5856b58315dad1a",
     "packages": [
         {
             "name": "agmscode/omnipay-agms",
@@ -62,60 +62,6 @@
                 "purchase"
             ],
             "time": "2015-03-21 20:06:25"
-        },
-        {
-            "name": "alfaproject/omnipay-neteller",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/alfaproject/omnipay-neteller.git",
-                "reference": "e2b9129936cf45bf10e0dd406f897d2852e3d567"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/alfaproject/omnipay-neteller/zipball/e2b9129936cf45bf10e0dd406f897d2852e3d567",
-                "reference": "e2b9129936cf45bf10e0dd406f897d2852e3d567",
-                "shasum": ""
-            },
-            "require": {
-                "omnipay/common": "~2.0"
-            },
-            "require-dev": {
-                "omnipay/tests": "~2.0",
-                "satooshi/php-coveralls": "dev-master"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.0.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-0": {
-                    "Omnipay\\Neteller\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Joao Dias",
-                    "email": "joao.dias@cherrygroup.com"
-                }
-            ],
-            "description": "Neteller driver for the Omnipay payment processing library",
-            "homepage": "https://github.com/alfaproject/omnipay-neteller",
-            "keywords": [
-                "gateway",
-                "merchant",
-                "neteller",
-                "omnipay",
-                "pay",
-                "payment"
-            ],
-            "time": "2014-02-25 10:03:25"
         },
         {
             "name": "alfaproject/omnipay-skrill",
@@ -177,12 +123,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/formers/former.git",
-                "reference": "795f7b9b200a4ff4a33b37a96eaaab0229e36325"
+                "reference": "e196c4336db77be97131f6a3b3c3b69b3a22b683"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/formers/former/zipball/795f7b9b200a4ff4a33b37a96eaaab0229e36325",
-                "reference": "795f7b9b200a4ff4a33b37a96eaaab0229e36325",
+                "url": "https://api.github.com/repos/formers/former/zipball/e196c4336db77be97131f6a3b3c3b69b3a22b683",
+                "reference": "e196c4336db77be97131f6a3b3c3b69b3a22b683",
                 "shasum": ""
             },
             "require": {
@@ -228,7 +174,7 @@
                 "foundation",
                 "laravel"
             ],
-            "time": "2015-11-05 15:53:52"
+            "time": "2016-03-02 17:21:21"
         },
         {
             "name": "anahkiasen/html-object",
@@ -435,12 +381,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/barryvdh/laravel-ide-helper.git",
-                "reference": "4b8ba85b346fc9962521661aa639911535b2bb3f"
+                "reference": "e97ed532f09e290b91ff7713b785ed7ab11d0812"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/barryvdh/laravel-ide-helper/zipball/4b8ba85b346fc9962521661aa639911535b2bb3f",
-                "reference": "4b8ba85b346fc9962521661aa639911535b2bb3f",
+                "url": "https://api.github.com/repos/barryvdh/laravel-ide-helper/zipball/e97ed532f09e290b91ff7713b785ed7ab11d0812",
+                "reference": "e97ed532f09e290b91ff7713b785ed7ab11d0812",
                 "shasum": ""
             },
             "require": {
@@ -448,7 +394,7 @@
                 "illuminate/filesystem": "5.0.x|5.1.x|5.2.x",
                 "illuminate/support": "5.0.x|5.1.x|5.2.x",
                 "php": ">=5.4.0",
-                "phpdocumentor/reflection-docblock": "2.0.4",
+                "phpdocumentor/reflection-docblock": "^2.0.4",
                 "symfony/class-loader": "~2.3|~3.0"
             },
             "require-dev": {
@@ -490,7 +436,7 @@
                 "phpstorm",
                 "sublime"
             ],
-            "time": "2016-01-28 08:19:58"
+            "time": "2016-03-03 14:38:04"
         },
         {
             "name": "cardgate/omnipay-cardgate",
@@ -2092,16 +2038,16 @@
         },
         {
             "name": "guzzlehttp/promises",
-            "version": "1.0.3",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/promises.git",
-                "reference": "b1e1c0d55f8083c71eda2c28c12a228d708294ea"
+                "reference": "bb9024c526b22f3fe6ae55a561fd70653d470aa8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/promises/zipball/b1e1c0d55f8083c71eda2c28c12a228d708294ea",
-                "reference": "b1e1c0d55f8083c71eda2c28c12a228d708294ea",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/bb9024c526b22f3fe6ae55a561fd70653d470aa8",
+                "reference": "bb9024c526b22f3fe6ae55a561fd70653d470aa8",
                 "shasum": ""
             },
             "require": {
@@ -2139,20 +2085,20 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2015-10-15 22:28:00"
+            "time": "2016-03-08 01:15:46"
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "f5d04bdd2881ac89abde1fb78cc234bce24327bb"
+                "reference": "2e89629ff057ebb49492ba08e6995d3a6a80021b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/f5d04bdd2881ac89abde1fb78cc234bce24327bb",
-                "reference": "f5d04bdd2881ac89abde1fb78cc234bce24327bb",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/2e89629ff057ebb49492ba08e6995d3a6a80021b",
+                "reference": "2e89629ff057ebb49492ba08e6995d3a6a80021b",
                 "shasum": ""
             },
             "require": {
@@ -2197,7 +2143,7 @@
                 "stream",
                 "uri"
             ],
-            "time": "2016-01-23 01:23:02"
+            "time": "2016-02-18 21:54:00"
         },
         {
             "name": "illuminate/html",
@@ -2306,12 +2252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Intervention/image.git",
-                "reference": "86dfe2f2a95aa9eed58faf1cc1dae6534a6ce931"
+                "reference": "e368d262887dbb2fdfaf710880571ede51e9c0e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Intervention/image/zipball/86dfe2f2a95aa9eed58faf1cc1dae6534a6ce931",
-                "reference": "86dfe2f2a95aa9eed58faf1cc1dae6534a6ce931",
+                "url": "https://api.github.com/repos/Intervention/image/zipball/e368d262887dbb2fdfaf710880571ede51e9c0e6",
+                "reference": "e368d262887dbb2fdfaf710880571ede51e9c0e6",
                 "shasum": ""
             },
             "require": {
@@ -2360,7 +2306,7 @@
                 "thumbnail",
                 "watermark"
             ],
-            "time": "2016-01-10 11:20:02"
+            "time": "2016-02-26 18:18:19"
         },
         {
             "name": "ircmaxell/password-compat",
@@ -3016,16 +2962,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.16",
+            "version": "1.0.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "183e1a610664baf6dcd6fceda415baf43cbdc031"
+                "reference": "b334d6c5f95364948e06d2f620ab93d084074c6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/183e1a610664baf6dcd6fceda415baf43cbdc031",
-                "reference": "183e1a610664baf6dcd6fceda415baf43cbdc031",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/b334d6c5f95364948e06d2f620ab93d084074c6e",
+                "reference": "b334d6c5f95364948e06d2f620ab93d084074c6e",
                 "shasum": ""
             },
             "require": {
@@ -3038,8 +2984,7 @@
                 "ext-fileinfo": "*",
                 "mockery/mockery": "~0.9",
                 "phpspec/phpspec": "^2.2",
-                "phpspec/prophecy-phpunit": "~1.0",
-                "phpunit/phpunit": "~4.8"
+                "phpunit/phpunit": "~4.8 || ~5.0"
             },
             "suggest": {
                 "ext-fileinfo": "Required for MimeType",
@@ -3096,7 +3041,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2015-12-19 20:16:43"
+            "time": "2016-03-07 21:01:43"
         },
         {
             "name": "league/fractal",
@@ -3329,16 +3274,16 @@
         },
         {
             "name": "maatwebsite/excel",
-            "version": "v2.1.1",
+            "version": "v2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Maatwebsite/Laravel-Excel.git",
-                "reference": "4c89f4cb1d30090a256530e1dce0ed3765eca7fa"
+                "reference": "aae17dbd6f39606cf8f588359a7a79438ab5aa53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Maatwebsite/Laravel-Excel/zipball/4c89f4cb1d30090a256530e1dce0ed3765eca7fa",
-                "reference": "4c89f4cb1d30090a256530e1dce0ed3765eca7fa",
+                "url": "https://api.github.com/repos/Maatwebsite/Laravel-Excel/zipball/aae17dbd6f39606cf8f588359a7a79438ab5aa53",
+                "reference": "aae17dbd6f39606cf8f588359a7a79438ab5aa53",
                 "shasum": ""
             },
             "require": {
@@ -3393,7 +3338,7 @@
                 "import",
                 "laravel"
             ],
-            "time": "2015-12-15 20:14:50"
+            "time": "2016-03-01 17:45:44"
         },
         {
             "name": "maximebf/debugbar",
@@ -3624,16 +3569,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "1.17.2",
+            "version": "1.18.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "bee7f0dc9c3e0b69a6039697533dca1e845c8c24"
+                "reference": "e19b764b5c855580e8ffa7e615f72c10fd2f99cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/bee7f0dc9c3e0b69a6039697533dca1e845c8c24",
-                "reference": "bee7f0dc9c3e0b69a6039697533dca1e845c8c24",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/e19b764b5c855580e8ffa7e615f72c10fd2f99cc",
+                "reference": "e19b764b5c855580e8ffa7e615f72c10fd2f99cc",
                 "shasum": ""
             },
             "require": {
@@ -3662,6 +3607,7 @@
                 "ext-amqp": "Allow sending log messages to an AMQP server (1.0+ required)",
                 "ext-mongo": "Allow sending log messages to a MongoDB server",
                 "graylog2/gelf-php": "Allow sending log messages to a GrayLog2 server",
+                "mongodb/mongodb": "Allow sending log messages to a MongoDB server via PHP Driver",
                 "php-console/php-console": "Allow sending log messages to Google Chrome",
                 "raven/raven": "Allow sending log messages to a Sentry server",
                 "rollbar/rollbar": "Allow sending log messages to Rollbar",
@@ -3671,7 +3617,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.16.x-dev"
+                    "dev-master": "2.0.x-dev"
                 }
             },
             "autoload": {
@@ -3697,7 +3643,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2015-10-14 12:51:02"
+            "time": "2016-03-01 18:00:40"
         },
         {
             "name": "mtdowling/cron-expression",
@@ -3896,16 +3842,16 @@
         },
         {
             "name": "omnipay/authorizenet",
-            "version": "v2.3.0",
+            "version": "2.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/omnipay-authorizenet.git",
-                "reference": "142a95f550a5320db09e66019ecf5c8b8c3885b9"
+                "reference": "e2e813b0b6306ef97b8763037f05476456546b3e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-authorizenet/zipball/142a95f550a5320db09e66019ecf5c8b8c3885b9",
-                "reference": "142a95f550a5320db09e66019ecf5c8b8c3885b9",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-authorizenet/zipball/e2e813b0b6306ef97b8763037f05476456546b3e",
+                "reference": "e2e813b0b6306ef97b8763037f05476456546b3e",
                 "shasum": ""
             },
             "require": {
@@ -3951,7 +3897,7 @@
                 "pay",
                 "payment"
             ],
-            "time": "2015-07-15 18:11:17"
+            "time": "2016-03-10 11:35:24"
         },
         {
             "name": "omnipay/bitpay",
@@ -4654,7 +4600,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-mollie/zipball/a89cb0d15447023b24c03f86873c1c1489cd021b",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-mollie/zipball/efd491fdac7d1243e2dd1da5a964514e3aab2a5a",
                 "reference": "22956c1a62a9662afa5f5d119723b413770ac525",
                 "shasum": ""
             },
@@ -4703,16 +4649,16 @@
         },
         {
             "name": "omnipay/multisafepay",
-            "version": "V2.2.0",
+            "version": "v2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/omnipay-multisafepay.git",
-                "reference": "a0f09abf404ca0dd21b553578d7f95df2bfa5318"
+                "reference": "342d0a3ba1a5ef0d788f20d23d0c70ce04ec3de1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-multisafepay/zipball/a0f09abf404ca0dd21b553578d7f95df2bfa5318",
-                "reference": "a0f09abf404ca0dd21b553578d7f95df2bfa5318",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-multisafepay/zipball/342d0a3ba1a5ef0d788f20d23d0c70ce04ec3de1",
+                "reference": "342d0a3ba1a5ef0d788f20d23d0c70ce04ec3de1",
                 "shasum": ""
             },
             "require": {
@@ -4757,7 +4703,7 @@
                 "pay",
                 "payment"
             ],
-            "time": "2015-01-14 04:01:43"
+            "time": "2016-02-18 00:06:08"
         },
         {
             "name": "omnipay/netaxept",
@@ -5164,16 +5110,16 @@
         },
         {
             "name": "omnipay/paypal",
-            "version": "v2.5.1",
+            "version": "v2.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/omnipay-paypal.git",
-                "reference": "b546d24241725061d44e60516f0fbce202336963"
+                "reference": "97fc3b1ff43e130ee911b35e139dcc853488d07a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-paypal/zipball/b546d24241725061d44e60516f0fbce202336963",
-                "reference": "b546d24241725061d44e60516f0fbce202336963",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-paypal/zipball/97fc3b1ff43e130ee911b35e139dcc853488d07a",
+                "reference": "97fc3b1ff43e130ee911b35e139dcc853488d07a",
                 "shasum": ""
             },
             "require": {
@@ -5218,7 +5164,7 @@
                 "paypal",
                 "purchase"
             ],
-            "time": "2016-01-13 07:03:27"
+            "time": "2016-02-29 00:06:43"
         },
         {
             "name": "omnipay/pin",
@@ -5566,16 +5512,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v1.2.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790"
+                "reference": "f078eba3bcf140fd69b5fcc3ea5ac809abf729dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/b0e69d10852716b2ccbdff69c75c477637220790",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/f078eba3bcf140fd69b5fcc3ea5ac809abf729dc",
+                "reference": "f078eba3bcf140fd69b5fcc3ea5ac809abf729dc",
                 "shasum": ""
             },
             "require": {
@@ -5610,7 +5556,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-02-06 03:52:05"
+            "time": "2016-02-29 17:25:04"
         },
         {
             "name": "patricktalmadge/bootstrapper",
@@ -5937,16 +5883,16 @@
         },
         {
             "name": "samvaughton/omnipay-barclays-epdq",
-            "version": "2.1.1",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/samvaughton/omnipay-barclays-epdq.git",
-                "reference": "f971de37aa40c72cc58f02d05f540a93b2c5958e"
+                "reference": "b7f9263afa73b8e6c3c5e8bb2bf04a82548a41da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/samvaughton/omnipay-barclays-epdq/zipball/f971de37aa40c72cc58f02d05f540a93b2c5958e",
-                "reference": "f971de37aa40c72cc58f02d05f540a93b2c5958e",
+                "url": "https://api.github.com/repos/samvaughton/omnipay-barclays-epdq/zipball/b7f9263afa73b8e6c3c5e8bb2bf04a82548a41da",
+                "reference": "b7f9263afa73b8e6c3c5e8bb2bf04a82548a41da",
                 "shasum": ""
             },
             "require": {
@@ -5995,7 +5941,7 @@
                 "pay",
                 "payment"
             ],
-            "time": "2015-05-07 14:45:43"
+            "time": "2016-03-03 14:40:27"
         },
         {
             "name": "simshaun/recurr",
@@ -6003,12 +5949,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/simshaun/recurr.git",
-                "reference": "53c1ddacc7c91b25cc21983731bc2c8137d143f6"
+                "reference": "4d875b0237dcef75ee0de80d9bd63609349568d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simshaun/recurr/zipball/53c1ddacc7c91b25cc21983731bc2c8137d143f6",
-                "reference": "53c1ddacc7c91b25cc21983731bc2c8137d143f6",
+                "url": "https://api.github.com/repos/simshaun/recurr/zipball/4d875b0237dcef75ee0de80d9bd63609349568d4",
+                "reference": "4d875b0237dcef75ee0de80d9bd63609349568d4",
                 "shasum": ""
             },
             "require": {
@@ -6049,7 +5995,7 @@
                 "recurring",
                 "rrule"
             ],
-            "time": "2015-12-10 10:27:22"
+            "time": "2016-02-22 17:40:00"
         },
         {
             "name": "softcommerce/omnipay-paytrace",
@@ -6158,7 +6104,7 @@
         },
         {
             "name": "symfony/class-loader",
-            "version": "v3.0.2",
+            "version": "v3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/class-loader.git",
@@ -6272,7 +6218,7 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v3.0.2",
+            "version": "v3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
@@ -6386,16 +6332,16 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v2.8.2",
+            "version": "v2.8.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "ee278f7c851533e58ca307f66305ccb9188aceda"
+                "reference": "78c468665c9568c3faaa9c416a7134308f2d85c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/ee278f7c851533e58ca307f66305ccb9188aceda",
-                "reference": "ee278f7c851533e58ca307f66305ccb9188aceda",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/78c468665c9568c3faaa9c416a7134308f2d85c3",
+                "reference": "78c468665c9568c3faaa9c416a7134308f2d85c3",
                 "shasum": ""
             },
             "require": {
@@ -6442,20 +6388,20 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-13 10:28:07"
+            "time": "2016-01-27 05:14:19"
         },
         {
             "name": "symfony/filesystem",
-            "version": "v2.8.2",
+            "version": "v2.8.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "637b64d0ee10f44ae98dbad651b1ecdf35a11e8c"
+                "reference": "65cb36b6539b1d446527d60457248f30d045464d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/637b64d0ee10f44ae98dbad651b1ecdf35a11e8c",
-                "reference": "637b64d0ee10f44ae98dbad651b1ecdf35a11e8c",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/65cb36b6539b1d446527d60457248f30d045464d",
+                "reference": "65cb36b6539b1d446527d60457248f30d045464d",
                 "shasum": ""
             },
             "require": {
@@ -6491,7 +6437,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-13 10:28:07"
+            "time": "2016-02-22 15:02:30"
         },
         {
             "name": "symfony/finder",
@@ -6677,7 +6623,7 @@
         },
         {
             "name": "symfony/polyfill-php56",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php56.git",
@@ -6733,7 +6679,7 @@
         },
         {
             "name": "symfony/polyfill-util",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-util.git",
@@ -7330,12 +7276,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/webpatser/laravel-countries.git",
-                "reference": "e29dcce821f2c4a522e35483c38632ca534db4ee"
+                "reference": "2a310c0ff1b112d3710223d3bd51e8a30c5a304d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webpatser/laravel-countries/zipball/e29dcce821f2c4a522e35483c38632ca534db4ee",
-                "reference": "e29dcce821f2c4a522e35483c38632ca534db4ee",
+                "url": "https://api.github.com/repos/webpatser/laravel-countries/zipball/2a310c0ff1b112d3710223d3bd51e8a30c5a304d",
+                "reference": "2a310c0ff1b112d3710223d3bd51e8a30c5a304d",
                 "shasum": ""
             },
             "require": {
@@ -7374,7 +7320,7 @@
                 "iso_3166_3",
                 "laravel"
             ],
-            "time": "2015-08-21 12:12:14"
+            "time": "2016-02-25 10:29:59"
         },
         {
             "name": "wildbit/laravel-postmark-provider",
@@ -8452,16 +8398,16 @@
         },
         {
             "name": "sebastian/environment",
-            "version": "1.3.3",
+            "version": "1.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "6e7133793a8e5a5714a551a8324337374be209df"
+                "reference": "dc7a29032cf72b54f36dac15a1ca5b3a1b6029bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/6e7133793a8e5a5714a551a8324337374be209df",
-                "reference": "6e7133793a8e5a5714a551a8324337374be209df",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/dc7a29032cf72b54f36dac15a1ca5b3a1b6029bf",
+                "reference": "dc7a29032cf72b54f36dac15a1ca5b3a1b6029bf",
                 "shasum": ""
             },
             "require": {
@@ -8498,7 +8444,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2015-12-02 08:37:27"
+            "time": "2016-02-26 18:40:46"
         },
         {
             "name": "sebastian/exporter",
@@ -8707,7 +8653,7 @@
         },
         {
             "name": "symfony/browser-kit",
-            "version": "v3.0.2",
+            "version": "v3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/browser-kit.git",
@@ -8764,16 +8710,16 @@
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v3.0.2",
+            "version": "v3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dom-crawler.git",
-                "reference": "b693a9650aa004576b593ff2e91ae749dc90123d"
+                "reference": "981c8edb4538f88ba976ed44bdcaa683fce3d6c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/b693a9650aa004576b593ff2e91ae749dc90123d",
-                "reference": "b693a9650aa004576b593ff2e91ae749dc90123d",
+                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/981c8edb4538f88ba976ed44bdcaa683fce3d6c6",
+                "reference": "981c8edb4538f88ba976ed44bdcaa683fce3d6c6",
                 "shasum": ""
             },
             "require": {
@@ -8816,11 +8762,11 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-25 09:56:57"
+            "time": "2016-02-28 16:24:34"
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -8879,16 +8825,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.0.2",
+            "version": "v3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "3cf0709d7fe936e97bee9e954382e449003f1d9a"
+                "reference": "b5ba64cd67ecd6887f63868fa781ca094bd1377c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/3cf0709d7fe936e97bee9e954382e449003f1d9a",
-                "reference": "3cf0709d7fe936e97bee9e954382e449003f1d9a",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/b5ba64cd67ecd6887f63868fa781ca094bd1377c",
+                "reference": "b5ba64cd67ecd6887f63868fa781ca094bd1377c",
                 "shasum": ""
             },
             "require": {
@@ -8924,7 +8870,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-02-02 13:44:19"
+            "time": "2016-02-23 15:16:06"
         }
     ],
     "aliases": [],
@@ -8939,7 +8885,6 @@
         "webpatser/laravel-countries": 20,
         "barryvdh/laravel-ide-helper": 20,
         "lokielse/omnipay-alipay": 20,
-        "alfaproject/omnipay-neteller": 20,
         "alfaproject/omnipay-skrill": 20,
         "omnipay/bitpay": 20,
         "dwolla/omnipay-dwolla": 20,
